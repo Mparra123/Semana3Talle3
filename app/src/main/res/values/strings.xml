@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Hello_world_2.0</string>
+    <string name="text_hint">Test download content</string>
+
+    <!-- this is a comment <string name="btn_new">new activity</string>-->
+    <string name="btn_submit">Download</string>
+    <string name="btn_newSyn">New Synchronization</string>
+    <string name="text_activ2">value</string>
+    <string name="editText">Type your URL</string>
+    <string name="editURL">https://www.google.com</string>
+    <string name="btnNewActivity">New activity</string>
+
+    <!-- this is a comment for the Fragments strings-->
+    <string name="hello_blank_fragment">Type the respective data</string>
+    <string name="txtName">Name</string>
+    <string name="txtLastName">Last Name</string>
+    <string name="txtPhone">Phone</string>
+    <string name="txtEmail">Email</string>
+    <string name="btnSaveForm">Submit</string>
+
+</resources>
